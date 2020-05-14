@@ -1,6 +1,6 @@
 # MxR-Embedded-System
-The following programs are used for the Embedded System of the Mixed Reality Studio. These programs function as test/debugging code
-and system operation code.
+The following files are used for the Embedded System of the Mixed Reality Studio. The programs function as test/debugging code
+and system operation code. CAD models and STL files are also available for the main power box which houses hardware used for the embedded system.
 
 The following hardware was used in conjunction with these programs:
 - Mixed Reality Studio
